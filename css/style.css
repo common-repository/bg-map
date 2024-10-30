@@ -1,0 +1,142 @@
+.bg-map  * {
+     box-sizing: border-box;
+}
+
+.clear-map {
+	display: block;
+	clear: both;
+	float: none;
+	content: 0;
+}
+
+.regions {
+    position: relative;
+    background: #eee;
+    margin: 40px;
+	stroke: #FFFFFF; 
+	stroke-width: 2; 
+	stroke-linecap: round; 
+	stroke-linejoin: round; 
+	stroke-miterlimit: 10; 
+	cursor: pointer;
+	transition: fill 0.2s; 
+	overflow:hidden;
+    user-select: none;
+    outline: 0;	
+}
+
+.bg-map svg:not(:root) {
+    overflow: visible;
+}
+
+.bg-map, path {
+	-webkit-transition: all 0.4s linear 0s;
+    -moz-transition: all 0.4s linear 0s;
+    -o-transition: all 0.4s linear 0s;
+    transition: all 0.4s linear 0s;
+	
+}
+
+.bg-map path:hover {
+	fill: green;
+    -webkit-transition: all 0.4s linear 0s;
+    -moz-transition: all 0.4s linear 0s;
+    -o-transition: all 0.4s linear 0s;
+    transition: all 0.4s linear 0s;
+}
+
+.bg-map, .bg-map-g {
+    position: relative;
+    display: block;
+    margin: 0 auto;	
+	max-width: 100% !important;
+    transform: none !important;
+    transition-property: none !important;	
+}
+
+.bg-map .bgmap-title {
+    position: relative;
+	width: 100%;
+    font-size: 1.4vw;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.bg-map .svg-map {
+    position: relative;
+    display: block;
+    overflow: visible;
+	margin: 0 auto;
+	width: 50%;
+    transform: none !important;
+    transition-property: none !important;
+}
+
+.bg-map foreignObject {
+	position: absolute;
+	text-align: center;
+}
+
+.bg-map foreignObject:hover {
+	
+}
+
+.bg-map foreignObject {
+    pointer-events: none;
+    font-size: 250px;	
+}
+
+.bg-map .oblast-text {
+    font-size: 13px;
+    font-family: "DejaVu Sans",sans-serif;
+    fill: #333;
+	user-select: none;
+    outline: 0;
+}
+
+.bg-map .oblast-test {
+    font-size: 28px;
+    font-family: "DejaVu Sans",sans-serif;
+    font-weight: bold;
+    fill: #646464;
+}
+
+.bg-map .r-title {
+	position: absolute;
+	font-size: 10vw;
+	z-index: 20;
+}
+
+.bg-map .regs {
+    display: none;
+    position: fixed;
+    top: -70px;
+    left: -35px;
+    margin: 0;
+    transition: transform 0.1s;
+    background: rgba(0,0,0,0.7);
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    width: fit-content;
+    z-index: 8;
+    user-select: none;
+    outline: 0;
+	border-radius: 2px;
+}
+
+.bg-map .show-arrow {
+    position: absolute;
+    top: 100%;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid rgba(0,0,0,0.7);
+    user-select: none;
+    outline: 0;
+}

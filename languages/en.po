@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: BG Map\n"
+"POT-Creation-Date: 2022-11-15 02:29+0200\n"
+"PO-Revision-Date: 2022-11-15 02:29+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: bg-map.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bg-map.php:67
+msgid "BG MAP"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: bg-map.php:67
+msgid "BG Map"
+msgstr ""
+
+#: bg-map.php:84
+msgid "Карта на България"
+msgstr ""
+
+#: bg-map.php:89
+msgid "Поставете с кратък код картата на желаното място"
+msgstr ""
+
+#: bg-map.php:90
+msgid "Копирай кода"
+msgstr ""
+
+#: bg-map.php:95
+msgid "Благоевград"
+msgstr ""
+
+#: bg-map.php:96 bg-map.php:100 bg-map.php:104 bg-map.php:108 bg-map.php:113
+#: bg-map.php:118 bg-map.php:123 bg-map.php:128 bg-map.php:133 bg-map.php:138
+#: bg-map.php:142 bg-map.php:147 bg-map.php:152 bg-map.php:157 bg-map.php:162
+#: bg-map.php:167 bg-map.php:172 bg-map.php:177 bg-map.php:182 bg-map.php:187
+#: bg-map.php:192 bg-map.php:197 bg-map.php:201 bg-map.php:206 bg-map.php:211
+#: bg-map.php:216 bg-map.php:221 bg-map.php:226
+msgid "URL"
+msgstr ""
+
+#: bg-map.php:99
+msgid "Бургас"
+msgstr ""
+
+#: bg-map.php:103
+msgid "Варна"
+msgstr ""
+
+#: bg-map.php:107
+msgid "Велико Търново"
+msgstr ""
+
+#: bg-map.php:112
+msgid "Видин"
+msgstr ""
+
+#: bg-map.php:117
+msgid "Враца"
+msgstr ""
+
+#: bg-map.php:122
+msgid "Габрово"
+msgstr ""
+
+#: bg-map.php:127
+msgid "Добрич"
+msgstr ""
+
+#: bg-map.php:132
+msgid "Кърджали"
+msgstr ""
+
+#: bg-map.php:137
+msgid "Кюстендил"
+msgstr ""
+
+#: bg-map.php:141
+msgid "Ловеч"
+msgstr ""
+
+#: bg-map.php:146
+msgid "Монтана"
+msgstr ""
+
+#: bg-map.php:151
+msgid "Пазарджик"
+msgstr ""
+
+#: bg-map.php:156
+msgid "Перник"
+msgstr ""
+
+#: bg-map.php:161
+msgid "Плевен"
+msgstr ""
+
+#: bg-map.php:166
+msgid "Пловдив"
+msgstr ""
+
+#: bg-map.php:171
+msgid "Разград"
+msgstr ""
+
+#: bg-map.php:176
+msgid "Русе"
+msgstr ""
+
+#: bg-map.php:181
+msgid "Силистра"
+msgstr ""
+
+#: bg-map.php:186
+msgid "Сливен"
+msgstr ""
+
+#: bg-map.php:191
+msgid "Смолян"
+msgstr ""
+
+#: bg-map.php:196
+msgid "София"
+msgstr ""
+
+#: bg-map.php:200
+msgid "София-област"
+msgstr ""
+
+#: bg-map.php:205
+msgid "Стара Загора"
+msgstr ""
+
+#: bg-map.php:210
+msgid "Търговище"
+msgstr ""
+
+#: bg-map.php:215
+msgid "Хасково"
+msgstr ""
+
+#: bg-map.php:220
+msgid "Шумен"
+msgstr ""
+
+#: bg-map.php:225
+msgid "Ямбол"
+msgstr ""
+
+#: bg-map.php:230
+msgid "PREVIEW PRO"
+msgstr ""
+
+#: bg-map.php:233
+msgid "Option"
+msgstr ""
+
+#: bg-map.php:234
+msgid "Free Version"
+msgstr ""
+
+#: bg-map.php:235
+msgid "Premium Version"
+msgstr ""
+
+#: bg-map.php:238
+msgid "Multiple Maps"
+msgstr ""
+
+#: bg-map.php:243
+msgid "Provinces Title"
+msgstr ""
+
+#: bg-map.php:248
+msgid "Meteorology"
+msgstr ""
+
+#: bg-map.php:253
+msgid "Map Colors"
+msgstr ""
+
+#: bg-map.php:258
+msgid "Map Info Icons"
+msgstr ""
+
+#: bg-map.php:263
+msgid "Map Statistics"
+msgstr ""
+
+#: bg-map.php:268
+msgid "Map Graphics"
+msgstr ""
+
+#: bg-map.php:273
+msgid "Provinces Links"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wp-maps.com/map-of-bulgaria-wordpress-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Bulgarien map by regions. Creating an interactive map of Bulgaria. Map of "
+"Bulgaria with 28 clickable provinces. Include with shortcode and display the "
+"map on your WordPress website in any widget, post and page. Suitable for "
+"news sites, real estate sites, weather, and all types of local businesses."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""

@@ -1,0 +1,180 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: BG Map\n"
+"POT-Creation-Date: 2022-10-26 11:23+0300\n"
+"PO-Revision-Date: 2022-10-26 11:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bg-map.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Plugin Name of the plugin/theme
+#: bg-map.php:62
+msgid "BG Map"
+msgstr ""
+
+#: bg-map.php:81
+msgid "Карта на България"
+msgstr ""
+
+#: bg-map.php:85
+msgid "Поставете с кратък код картата на желаното място"
+msgstr ""
+
+#: bg-map.php:86
+msgid "Копирай кода"
+msgstr ""
+
+#: bg-map.php:91
+msgid "Благоевград"
+msgstr ""
+
+#: bg-map.php:92 bg-map.php:96 bg-map.php:100 bg-map.php:104 bg-map.php:109
+#: bg-map.php:114 bg-map.php:119 bg-map.php:124 bg-map.php:129 bg-map.php:134
+#: bg-map.php:138 bg-map.php:143 bg-map.php:148 bg-map.php:153 bg-map.php:158
+#: bg-map.php:163 bg-map.php:168 bg-map.php:173 bg-map.php:178 bg-map.php:183
+#: bg-map.php:188 bg-map.php:193 bg-map.php:197 bg-map.php:202 bg-map.php:207
+#: bg-map.php:212 bg-map.php:217 bg-map.php:222
+msgid "URL"
+msgstr ""
+
+#: bg-map.php:95
+msgid "Бургас"
+msgstr ""
+
+#: bg-map.php:99
+msgid "Варна"
+msgstr ""
+
+#: bg-map.php:103
+msgid "Велико Търново"
+msgstr ""
+
+#: bg-map.php:108
+msgid "Видин"
+msgstr ""
+
+#: bg-map.php:113
+msgid "Враца"
+msgstr ""
+
+#: bg-map.php:118
+msgid "Габрово"
+msgstr ""
+
+#: bg-map.php:123
+msgid "Добрич"
+msgstr ""
+
+#: bg-map.php:128
+msgid "Кърджали"
+msgstr ""
+
+#: bg-map.php:133
+msgid "Кюстендил"
+msgstr ""
+
+#: bg-map.php:137
+msgid "Ловеч"
+msgstr ""
+
+#: bg-map.php:142
+msgid "Монтана"
+msgstr ""
+
+#: bg-map.php:147
+msgid "Пазарджик"
+msgstr ""
+
+#: bg-map.php:152
+msgid "Перник"
+msgstr ""
+
+#: bg-map.php:157
+msgid "Плевен"
+msgstr ""
+
+#: bg-map.php:162
+msgid "Пловдив"
+msgstr ""
+
+#: bg-map.php:167
+msgid "Разград"
+msgstr ""
+
+#: bg-map.php:172
+msgid "Русе"
+msgstr ""
+
+#: bg-map.php:177
+msgid "Силистра"
+msgstr ""
+
+#: bg-map.php:182
+msgid "Сливен"
+msgstr ""
+
+#: bg-map.php:187
+msgid "Смолян"
+msgstr ""
+
+#: bg-map.php:192
+msgid "София"
+msgstr ""
+
+#: bg-map.php:196
+msgid "София-област"
+msgstr ""
+
+#: bg-map.php:201
+msgid "Стара Загора"
+msgstr ""
+
+#: bg-map.php:206
+msgid "Търговище"
+msgstr ""
+
+#: bg-map.php:211
+msgid "Хасково"
+msgstr ""
+
+#: bg-map.php:216
+msgid "Шумен"
+msgstr ""
+
+#: bg-map.php:221
+msgid "Ямбол"
+msgstr ""
+
+#: include/shortcode-bg_map.php:350
+msgid "Shortcode"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wp-maps.com/map-of-bulgaria-wordpress-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Bulgarien map by regions. Creating an interactive map of Bulgaria. Map of "
+"Bulgaria with 28 clickable provinces. Include with shortcode and display the "
+"map on your WordPress website in any widget, post and page. Suitable for "
+"news sites, real estate sites, weather, and all types of local businesses."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""

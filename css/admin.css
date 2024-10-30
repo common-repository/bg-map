@@ -1,0 +1,100 @@
+#bg_map-copy {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	text-align: center;
+	width: 170px;
+	height: 26px;
+	overflow:hidden;
+	resize: none;
+	margin-bottom: 10px;	
+}
+
+.copy-shortcode {
+	width: 170px;	
+	text-align: center;
+}
+
+#admin-fg-bg_map .map-title {
+	font-size: 35px;
+	padding: 20px 0;
+	font-weight: bold;
+}
+
+.fon {
+	line-height: 30px;
+	height: 30px;
+}
+
+#admin-fg-bg_map #submit:hover {
+	background: #135e96;
+}
+#admin-fg-bg_map input,
+#admin-fg-bg_map select,
+#admin-fg-bg_map textarea {
+	border: 1px solid #eee;
+	border-radius: 4px;
+}
+
+#admin-fg-bg_map .tab-color td {
+	line-height: 1.8em;
+	border: 1px solid #C0C0C0;
+}
+
+#admin-fg-bg_map input:hover,
+#admin-fg-bg_map select:hover,
+#admin-fg-bg_map textarea:hover, 
+#admin-fg-bg_map input:focus,
+#admin-fg-bg_map select:focus,
+#admin-fg-bg_map textarea:focus {
+	outline: 0;
+	box-shadow:  none;
+	background: #eee;
+}
+
+#admin-fg-bg_map table td {
+	min-width: 30%;
+	padding: 10px;
+}
+
+.map-admin-langs {
+	width: 100%;
+	text-align: left;
+	margin: 10px;
+}
+
+#wpbody-content #admin-fg-bg_map .pro-feature td {
+	border: 1px solid #C0C0C0;
+}
+
+#admin-fg-bg_map .dashicons-dismiss {
+	color: red;
+	font-size: 26px;
+}
+#admin-fg-bg_map .dashicons-yes-alt {
+	color: green;
+	font-size: 26px;	
+}
+
+#admin-fg-bg_map .pro a {
+	display: inline-table;
+	text-decoration: none;
+	width: 200px;
+	text-align: center;
+	padding: 15px 18px;
+	margin: 10px 0;
+	background: red;
+	color: #fff;
+	border-radius: 5px;
+}
+#admin-fg-bg_map .pro a:hover {
+	background: green;
+}
+
+#admin-fg-bg_map .pro h2 {
+	color: #fff;
+	font-size: 22px;
+	font-weight: bold;
+	margin: 0;
+}
+
